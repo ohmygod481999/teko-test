@@ -1,0 +1,8 @@
+.cancel-search-btn {
+    display: inline-block;
+    background-color: crimson;
+    color: white;
+    padding: 1px 5px;
+    border-radius: 3px;
+    cursor: pointer;
+}

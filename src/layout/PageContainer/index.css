@@ -1,0 +1,15 @@
+.page-container {
+    margin: 20px 20%;
+}
+
+@media only screen and (max-width: 768px) {
+    .page-container {
+        margin: 20px 50px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .page-container {
+        margin: 20px 75px;
+    }
+}

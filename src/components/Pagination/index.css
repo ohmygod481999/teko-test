@@ -1,0 +1,20 @@
+.pagination {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination-item {
+    /*display: inline-block;*/
+    font-size: larger;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.pagination-active {
+    /*background-color: black;*/
+    /*color: white;*/
+    text-decoration: underline;
+    text-underline: black;
+    cursor: default;
+}
